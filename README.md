@@ -1,8 +1,8 @@
 sermacs_workshop
 ==============================
 [//]: # (Badges)
-[![Travis Build Status](https://travis-ci.org/snelliott/sermacs_workshop.png)](https://travis-ci.org/snelliott/sermacs_workshop)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/sermacs_workshop/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/sermacs_workshop/branch/master)
+[![Travis Build Status](https://travis-ci.org/snelliott/sermacss-_workshop.png)](https://travis-ci.org/snelliott/sermacs-workshop)
+[![codecov](https://codecov.io/gh/snelliott/sermacs-workshop/branch/master/graph/badge.svg)](https://codecov.io/gh/snelliott/sermacs-workshop/branch/master)
 
 sermacs workshop
 Learning to use cookie-cutter
