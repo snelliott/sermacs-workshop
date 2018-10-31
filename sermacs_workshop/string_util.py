@@ -24,7 +24,8 @@ def title_case(sentence):
     >>> title_case('ThIs iS a StrIng tO be ConVerted')
         This Is A String To Be Converted
     """
-
+    if not isinstance(sentence, str):
+        raise TypeError('Input must be type string')
     capitalized = ' '.join([s[0].upper()+s[1:].lower() for s in sentence.strip().split()])
     return capitalized
 
