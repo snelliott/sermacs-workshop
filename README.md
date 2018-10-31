@@ -5,7 +5,7 @@ sermacs_workshop
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/sermacs_workshop/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/sermacs_workshop/branch/master)
 
 sermacs workshop
-
+Learning to use cookie-cutter
 ### Copyright
 
 Copyright (c) 2018, Sarah Elliott
