@@ -1,7 +1,7 @@
 sermacs_workshop
 ==============================
 [//]: # (Badges)
-[![Travis Build Status](https://travis-ci.org/snelliott/sermacss-_workshop.png)](https://travis-ci.org/snelliott/sermacs-workshop)
+[![Travis Build Status](https://travis-ci.org/snelliott/sermacss-workshop.png)](https://travis-ci.org/snelliott/sermacs-workshop)
 [![codecov](https://codecov.io/gh/snelliott/sermacs-workshop/branch/master/graph/badge.svg)](https://codecov.io/gh/snelliott/sermacs-workshop/branch/master)
 
 sermacs workshop
