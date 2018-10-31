@@ -5,6 +5,7 @@ Sample repository for MolSSI Workshop at SERMACS
 Misc. string processing functions
 """
 
+
 def title_case(sentence):
     """
     Convert string to title case
@@ -26,8 +27,10 @@ def title_case(sentence):
     """
     if not isinstance(sentence, str):
         raise TypeError('Input must be type string')
-    capitalized = ' '.join([s[0].upper()+s[1:].lower() for s in sentence.strip().split()])
+    capitalized = ' '.join(
+        [s[0].upper() + s[1:].lower() for s in sentence.strip().split()])
     return capitalized
+
 
 if __name__ == "__main__":
     this = "ThIs IS my sENtencE"
